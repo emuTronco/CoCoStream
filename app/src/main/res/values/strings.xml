@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CoCoStream</string>
+
+    <string name="select_yt">Selecciona un canal de Youtube</string>
+    <string name="select_tw">Selecciona un canal de Twitch</string>
+
 </resources>
